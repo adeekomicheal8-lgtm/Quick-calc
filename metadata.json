@@ -1,0 +1,6 @@
+{
+  "name": "Calculator",
+  "description": "A precision mobile calculator with standard and scientific modes, live expression preview, and calculation history.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

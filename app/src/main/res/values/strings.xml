@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Calculator</string>
+    <string name="cd_toggle_scientific">Toggle scientific mode</string>
+    <string name="cd_open_history">Open calculation history</string>
+    <string name="cd_toggle_theme">Switch theme</string>
+    <string name="cd_copy_result">Copy result</string>
+    <string name="cd_backspace">Backspace</string>
+    <string name="cd_clear_history">Clear history</string>
+    <string name="cd_close_history">Close history</string>
+    <string name="cd_angle_unit">Toggle degrees or radians</string>
+    <string name="cd_inverse_functions">Toggle inverse functions</string>
+    <string name="label_history">History</string>
+    <string name="label_clear">Clear</string>
+    <string name="label_copied">Copied to clipboard</string>
+    <string name="label_history_empty_title">No calculations yet</string>
+    <string name="label_history_empty_subtitle">Completed expressions will appear here so you can reuse or copy results.</string>
+    <string name="label_scientific">SCI</string>
+    <string name="label_standard">STD</string>
+    <string name="label_deg">DEG</string>
+    <string name="label_rad">RAD</string>
+    <string name="label_inv">INV</string>
+    <string name="label_tap_to_reuse">Tap expression or result to reuse</string>
+</resources>
